@@ -61,7 +61,7 @@ ul li {padding-bottom: 6px; line-height: 22px;}
 /* older css */
 
 body {
-  font-family: sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
 
   color: #062946;
@@ -104,7 +104,7 @@ input {
   width: 90%;
   font-size: 16px;
   padding: 8px;
-  font-family: sans-serif;
+  font-family: Arial;
 }
 .search_container{
   text-align:center;
